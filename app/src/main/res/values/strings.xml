@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FooterNavigationView</string>
+    <string name="name">Borja Bravo Álvarez</string>
+    <string name="copyright">©Copyright 2017</string>
+
+    <!--Menu-->
+    <string name="menu_add">Add</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_call">Call</string>
+    <string name="menu_camera">Camera</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_zoom">Zoom</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_help">Help</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FooterNavigationView">
+        <attr name="menu" format="reference"/>
+        <attr name="itemIconTint" format="color"/>
+        <attr name="itemTextColor" format="color"/>
+        <attr name="itemBackground" format="reference"/>
+        <attr name="itemTextAppearance" format="reference"/>
+        <attr name="headerLayout" format="reference"/>
+        <attr name="footerLayout" format="reference"/>
+    </declare-styleable>
+</resources>
