@@ -28,6 +28,8 @@ To use the FooterNavigationView on your app, add the following code to your layo
 ```    
 All properties are the same than NavigationView, excepts the footerLayout. This property allows us to show a footer inside the NavigationView. Our custom view has scroll to see all contents.
 
+![FooterNavigationView](FooterNavigationView.png)
+
 License
 =======
 
