@@ -27,15 +27,11 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         footerNavigationView?.setCheckedItem(optionSelected)
         footerNavigationView?.navigationView?.menu?.performIdentifierAction(optionSelected, 0)
         footerNavigationView?.setNavigationListener(this)
-//        footerNavigationView?.itemTextColor = ContextCompat.getColorStateList(this, R.color.text_color_footer_navigation_view)
-//        footerNavigationView?.itemBackground = ContextCompat.getDrawable(this, R.drawable.bg_item_footer_navigation_view)
-//        footerNavigationView?.itemIconTint = ContextCompat.getColorStateList(this, R.color.ic_tint_footer_navigation_view)
     }
 
     override fun onNavigationItemSelected(menuItem: MenuItem): Boolean {
         drawerLayout?.closeDrawers()
         optionSelected = menuItem.itemId
-//        footerNavigationView?.setCheckedItem(optionSelected)
         return true
     }
 }
