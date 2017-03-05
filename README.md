@@ -1,6 +1,7 @@
 # FooterNavigationView
 
 [![](https://jitpack.io/v/borjabravo10/FooterNavigationView.svg)](https://jitpack.io/#borjabravo10/FooterNavigationView)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SimpleRatingBar-green.svg?style=true)](https://android-arsenal.com/details/1/5401)
 
 FooterNavigationView helps to show a footer inside the NavigationView.
 
