@@ -1,10 +1,5 @@
 # FooterNavigationView
 
-[![](https://jitpack.io/v/borjabravo10/FooterNavigationView.svg)](https://jitpack.io/#borjabravo10/FooterNavigationView)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FooterNavigationView-green.svg?style=true)](https://android-arsenal.com/details/1/5401)
-[![Kotlin Weekly](http://img.shields.io/badge/Kotlin%20Weekly-%2331-2CB3E5.svg?style=flat)](http://us12.campaign-archive1.com/?u=f39692e245b94f7fb693b6d82&id=6605c39b6f&e=[UNIQID])
-[![Android Dev Digest](http://img.shields.io/badge/Android%20Dev%20Digest-%23134-2CB3E5.svg?style=flat)](https://www.androiddevdigest.com/digest134/)
-
 FooterNavigationView helps to show a footer inside the NavigationView. You'll have scrollable navigation.
 
 ## Download
