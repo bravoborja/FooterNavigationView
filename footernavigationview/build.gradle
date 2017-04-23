@@ -8,13 +8,13 @@ tasks.withType(Javadoc) {
 }
 
 publish {
-    userOrg = 'borjabravo10'
+    userOrg = 'bravoborja'
     groupId = 'com.borjabravo'
     uploadName = 'FooterNavigationView'
     artifactId = 'footernavigationview'
     publishVersion = '1.0.0'
     desc = 'FooterNavigationView helps to show a footer inside the NavigationView'
-    website = 'https://github.com/borjabravo10/FooterNavigationView'
+    website = 'https://github.com/bravoborja/FooterNavigationView'
 }
 
 android {
